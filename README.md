@@ -15,6 +15,16 @@ I'm Noah Weston, a student interested in data science. Welcome to my GitHub prof
 - 🚀 Skills: Data Analysis
 - 🍎 Learning: HTML, CSS, JavaScript
 
+## Projects
+
+### Current
+
+- I'm working on a project for the Data Science Society on BYUI campus
+
+### Past
+
+- I have worked on a project for Western Electricity Coordinating Council where we scraped weather data from the internet, then compared it to their data of power outages to give them valuable information on how extreme weather affects power usage.
+
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/noah-weston-360403153/) profile
