@@ -1,5 +1,7 @@
 # Noah Weston
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=<insert_github_username>&theme=dark&layout=compact)
+
 Hello, GitHub! 👋
 
 I'm Noah Weston, a student interested in data science. Welcome to my GitHub profile!
