@@ -11,8 +11,8 @@ I'm Noah Weston, a student interested in data science. Welcome to my GitHub prof
 
 ## Technologies and Tools
 
-- 💻 Proficient in: R, Python, SQL, C#
-- 🚀 Skills: Excel (including lookups, VBA, and macros)
+- 💻 Proficient in: R, Python, SQL, C#, Excel (including lookups, VBA, and macros)
+- 🚀 Skills: Data Analysis
 - 🍎 Learning: HTML, CSS, JavaScript
 
 ## Let's Connect!
