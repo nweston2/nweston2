@@ -22,6 +22,7 @@ I'm Noah Weston, a student interested in data science. Welcome to my GitHub prof
 ### Current
 
 - I'm working on a project for the Data Science Society on BYUI campus
+- Building plant database along with dashboard for gardeners
 
 ### Past
 
