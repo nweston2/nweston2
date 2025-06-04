@@ -4,7 +4,7 @@
 
 Hello, GitHub! 👋
 
-I'm Noah Weston, a student interested in data science. Welcome to my GitHub profile!
+I'm Noah Weston, a student at Brigham Young University - Idaho studying data science. Welcome to my GitHub profile!
 
 ## About Me
 
