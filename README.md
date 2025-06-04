@@ -14,7 +14,7 @@ I'm Noah Weston, a student at Brigham Young University - Idaho studying data sci
 ## Technologies and Tools
 
 - 💻 Proficient in: R, Python, SQL, C#, Excel (including lookups, VBA, and macros)
-- 🚀 Skills: Data Analysis
+- 🚀 Skills: Data Analysis, Multiple Linear Regression
 - 🍎 Learning: HTML, CSS, JavaScript
 
 ## Projects
