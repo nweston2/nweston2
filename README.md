@@ -30,7 +30,7 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/noah-weston-360403153/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/noahweston) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 <!--
