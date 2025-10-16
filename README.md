@@ -9,13 +9,13 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 ## About Me
 
 - 🌱 I'm currently learning Data Science
-- 💬 Ask me about games, dinosaurs, or any of the projects you see here on my profile
+- 💬 Ask me about books, games, dinosaurs, or any of the projects you see here on my profile
 
 ## Technologies and Tools
 
-- 💻 Proficient in: R, Python, SQL, C#, Excel (including lookups, VBA, and macros)
+- 💻 Proficient in: R, Python, SQL, C#, Excel (including lookups, VBA, and macros), HTML, CSS, JavaScript
 - 🚀 Skills: Data Analysis, Multiple Linear Regression
-- 🍎 Learning: HTML, CSS, JavaScript
+- 🍎 Learning: Data warehousing, time series analysis
 
 ## Projects
 
