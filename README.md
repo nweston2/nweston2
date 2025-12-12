@@ -8,14 +8,14 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ## About Me
 
-- 🌱 I'm currently learning Data Science
+- 🌱 I have a certificate in Data Science from Brigham Young University - Idaho and am currently pursuing my bachelors degree.
 - 💬 Ask me about books, games, dinosaurs, or any of the projects you see here on my profile
 
 ## Technologies and Tools
 
 - 💻 Proficient in: R, Python, SQL, C#, Excel (including lookups, VBA, and macros), HTML, CSS, JavaScript
-- 🚀 Skills: Data Analysis, Multiple Linear Regression
-- 🍎 Learning: Data warehousing, time series analysis
+- 🚀 Skills: Data Analysis, Multiple Linear Regression, Time Series Analysis
+- 🍎 Learning: Data warehousing
 
 ## Projects
 
@@ -27,6 +27,8 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 ### Past
 
 - I have worked on a project for Western Electricity Coordinating Council where we scraped weather data from the internet, then compared it to their data of power outages to give them valuable information on how extreme weather affects power usage.
+- I worked with ASPIRE365 to create an app to allow them to upload datasets, do some basic anaylsis, and create a report. Our work helped make sure patients are recieving the care they need.
+- I created a website for SPRX that allows a user to put information about an upcoming potential project that will estimate how much money the project will make the company.
 
 ## Let's Connect!
 
