@@ -31,7 +31,7 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ### Current
 
-- 🌱 Building plant database along with dashboard for gardeners
+🌱 Building plant database along with dashboard for gardeners
 
 
 ## Let's Connect!
