@@ -1,6 +1,6 @@
 # Noah Weston
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nweston2&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nweston2&theme=dark&layout=compact&hide_border=false)
 
 Hello, GitHub! 👋
 
