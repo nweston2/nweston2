@@ -8,7 +8,7 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ## About Me
 
-- 🌱 I have a certificate in Data Science from Brigham Young University - Idaho and am currently pursuing my bachelors degree.
+- 📖 **Education** I have a certificate in Data Science from Brigham Young University - Idaho and will be receiving my bachelors degree in July 2026!
 - 💬 Ask me about books, games, dinosaurs, or any of the projects you see here on my profile
 
 ## Technologies and Tools
@@ -21,14 +21,13 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ### Current
 
-- I'm working on a project for the Data Science Society on BYUI campus
-- Building plant database along with dashboard for gardeners
+- 🌱 Building plant database along with dashboard for gardeners
 
 ### Past
 
 - I have worked on a project for Western Electricity Coordinating Council where we scraped weather data from the internet, then compared it to their data of power outages to give them valuable information on how extreme weather affects power usage.
 - I worked with ASPIRE365 to create an app to allow them to upload datasets, do some basic anaylsis, and create a report. Our work helped make sure patients are recieving the care they need.
-- I created a website for SPRX that allows a user to put information about an upcoming potential project that will estimate how much money the project will make the company.
+- Developed a financial forecasting web tool for SPRX that calculates project ROI, streamlining the company’s decision-making process for new ventures. I used R to form a multi-linear regression model, then I created the tool using this model, CSS, HTML, and JavaScript.
 
 ## Let's Connect!
 
