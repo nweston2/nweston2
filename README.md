@@ -1,6 +1,6 @@
 # Noah Weston
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nweston2&theme=dark&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nweston2&theme=dark&layout=compact)
 
 Hello, GitHub! 👋
 
@@ -8,7 +8,7 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ## About Me
 
-- 📖 **Education** I have a certificate in Data Science from Brigham Young University - Idaho and will be receiving my bachelors degree in July 2026!
+- 📖 I have a certificate in Data Science from Brigham Young University - Idaho and will be receiving my bachelors degree in July 2026!
 - 💬 Ask me about books, games, dinosaurs, or any of the projects you see here on my profile
 
 ## Technologies and Tools
@@ -19,15 +19,20 @@ I'm Noah Weston, a senior at Brigham Young University - Idaho studying data scie
 
 ## Projects
 
+### Past
+#### ⚡ Weather & Power Grid Analysis (WECC)
+*Analyzed how extreme weather correlates to power outages using web-scraped data and time-series modeling.*
+
+#### 🏥 Healthcare Analytics Dashboard (ASPIRE365)
+*Built a custom analysis app to automate patient care reporting and data visualization.*
+
+#### 📈 ROI Estimator (SPRX)
+*Developed a web-based financial tool to forecast project profitability.*
+
 ### Current
 
 - 🌱 Building plant database along with dashboard for gardeners
 
-### Past
-
-- I have worked on a project for Western Electricity Coordinating Council where we scraped weather data from the internet, then compared it to their data of power outages to give them valuable information on how extreme weather affects power usage.
-- I worked with ASPIRE365 to create an app to allow them to upload datasets, do some basic anaylsis, and create a report. Our work helped make sure patients are recieving the care they need.
-- Developed a financial forecasting web tool for SPRX that calculates project ROI, streamlining the company’s decision-making process for new ventures. I used R to form a multi-linear regression model, then I created the tool using this model, CSS, HTML, and JavaScript.
 
 ## Let's Connect!
 
