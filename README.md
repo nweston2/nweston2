@@ -1,7 +1,8 @@
 # Noah Weston
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nweston2&theme=dark&layout=compact)
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=r&logoColor=%23276DC3)
+![Static Badge](https://img.shields.io/badge/rlogo?logo=r&logoColor=%23276DC3)
+
 
 
 
