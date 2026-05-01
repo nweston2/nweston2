@@ -1,6 +1,8 @@
 # Noah Weston
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nweston2&theme=dark&layout=compact)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 Hello, GitHub! 👋
 
